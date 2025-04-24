@@ -24,6 +24,7 @@ I am a PhD candidate jointly supervised by Shandong University's School of Softw
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025 
 - *2025.02*: &nbsp;🎉🎉 I join Alibaba's DAMO Academy as a Research Intern in Hangzhou! 
 
 
@@ -41,7 +42,7 @@ I am a PhD candidate jointly supervised by Shandong University's School of Softw
 </div>
 </div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- `IJCAI 2025` CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning, **Min Yang**, Yang An, Jinliang Deng, Xiaoyu Li, Bin Xu, Ji Zhong, Xiankai Lu, Yongshun, Gong.
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
