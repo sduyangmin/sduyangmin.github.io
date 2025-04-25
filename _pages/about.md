@@ -25,8 +25,8 @@ I am a PhD candidate jointly supervised by Shandong University's School of Softw
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by TKDE
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025!
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by TKDE!
 - *2025.02*: &nbsp;🎉🎉 I join Alibaba's DAMO Academy as a Research Intern in Hangzhou! 
 
 
