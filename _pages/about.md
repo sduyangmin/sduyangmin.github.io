@@ -48,7 +48,7 @@ CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='images/STDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Spatio-Temporal Deviation Alignment Learning for Cross-city Fine-grained Urban Flow Inference
+STDA: Spatio-Temporal Deviation Alignment Learning for Cross-city Fine-grained Urban Flow Inference
 
 **Min Yang**, Xiaoyu Li, Bin Xu, Xiushan Nie, Muming Zhao, Chengqi Zhang, Yu Zheng, Yongshun Gong
 
