@@ -39,8 +39,9 @@ CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning
 
 **Min Yang**, Yang An, Jinliang Deng, Xiaoyu Li, Bin Xu, Ji Zhong, Xiankai Lu, Yongshun Gong
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10980031)
+[**Code**](https://github.com/sduyangmin/STDA)
+
 </div>
 </div>
 
@@ -52,6 +53,7 @@ STDA: Spatio-Temporal Deviation Alignment Learning for Cross-city Fine-grained U
 
 **Min Yang**, Xiaoyu Li, Bin Xu, Xiushan Nie, Muming Zhao, Chengqi Zhang, Yu Zheng, Yongshun Gong
 
+[**Code**](https://github.com/sduyangmin/CAN-ST)
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
