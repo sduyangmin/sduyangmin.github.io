@@ -38,6 +38,7 @@ I am a PhD candidate jointly supervised by Shandong University's School of Softw
 CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning
 
 **Min Yang**, Yang An, Jinliang Deng, [Xiaoyu Li](https://xxyuli.github.io), Bin Xu, Ji Zhong, Xiankai Lu, [Yongshun Gong](https://faculty.sdu.edu.cn/ylyin)
+
 [**Code**](https://github.com/sduyangmin/CAN-ST)
 
 
