@@ -24,10 +24,10 @@ author:
   name             : "Min Yang (杨敏) "
   avatar           : "/images/yangmin.png"
   bio              : "Zhongguancun Academy & Shandong University"
-  location         : "Hangzhou, China"
+  location         : "Hangzhou"
   employer         :
   pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=67mIi30AAAAJ&hl=en"
   email            : "minyang@mail.sdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : sduyangmin
   google_plus      :
   keybase          :
   instagram        :
