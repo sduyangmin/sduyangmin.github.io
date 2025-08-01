@@ -31,8 +31,16 @@ function updateSidebarToChinese() {
   // Update description
   const description = document.querySelector('meta[name="description"]');
   if (description) {
-    description.setAttribute('content', '专注于时空数据挖掘和基于LLM Agent的金融世界模拟');
+    description.setAttribute('content', '专注于时空数据挖掘和基于LLM Agent的金融经济建模仿真系统');
   }
+  
+  // Update displayed description in sidebar
+  const descriptionElements = document.querySelectorAll('.author__urls .author__urls-wrapper li div');
+  descriptionElements.forEach(element => {
+    if (element.style.whiteSpace === 'normal') {
+      element.textContent = '专注于时空数据挖掘和基于LLM Agent的金融经济建模仿真系统';
+    }
+  });
   
   // Update author bio
   const authorBio = document.querySelector('.author__bio');
@@ -54,6 +62,14 @@ function updateSidebarToEnglish() {
   if (description) {
     description.setAttribute('content', 'Focusing on spatiotemporal data mining and LLM Agent-based simulation systems for financial/economic modeling.');
   }
+  
+  // Update displayed description in sidebar
+  const descriptionElements = document.querySelectorAll('.author__urls .author__urls-wrapper li div');
+  descriptionElements.forEach(element => {
+    if (element.style.whiteSpace === 'normal') {
+      element.textContent = 'Focusing on spatiotemporal data mining and LLM Agent-based simulation systems for financial/economic modeling.';
+    }
+  });
   
   // Update author bio
   const authorBio = document.querySelector('.author__bio');
