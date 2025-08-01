@@ -31,13 +31,13 @@ function updateSidebarToChinese() {
   // Update description
   const description = document.querySelector('meta[name="description"]');
   if (description) {
-    description.setAttribute('content', '专注于时空数据挖掘和基于LLM Agent的金融经济建模仿真系统');
+    description.setAttribute('content', '专注于时空数据挖掘和基于LLM Agent的金融世界模拟');
   }
   
   // Update author bio
   const authorBio = document.querySelector('.author__bio');
   if (authorBio) {
-    authorBio.textContent = '中关村实验室 & 山东大学';
+    authorBio.textContent = '北京中关村学院 & 山东大学';
   }
   
   // Update location

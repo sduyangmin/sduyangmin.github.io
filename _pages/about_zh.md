@@ -19,7 +19,7 @@ redirect_from:
 
 我目前在阿里巴巴达摩院（杭州）担任研究实习生。
 
-我是山东大学软件学院和北京中关村学院联合培养的博士生，专注于时空数据挖掘和基于LLM Agent的金融经济建模仿真系统。我很荣幸得到李勇教授（[清华电子](http://web.ee.tsinghua.edu.cn/liyong/zh_CN/index.htm)）、宫永顺教授（[山大软件](https://faculty.sdu.edu.cn/gongyongshun)）和尹义龙教授（[山大软件](https://faculty.sdu.edu.cn/ylyin)）的指导。
+我是山东大学软件学院和北京中关村学院联合培养的博士生，专注于时空数据挖掘和基于LLM Agent的金融世界模拟。我很荣幸得到李勇教授（[清华电子](http://web.ee.tsinghua.edu.cn/liyong/zh_CN/index.htm)）、宫永顺教授（[山大软件](https://faculty.sdu.edu.cn/gongyongshun)）和尹义龙教授（[山大软件](https://faculty.sdu.edu.cn/ylyin)）的指导。
 
 
 
