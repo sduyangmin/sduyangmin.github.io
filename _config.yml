@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Min Yang (杨敏) "
-  avatar           : "images/yangmin.png"
+  avatar           : "/images/yangmin.png"
   bio              : "Zhongguancun Academy & Shandong University"
   location         : "Hangzhou, China"
   employer         :
