@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I serve as a Research Intern with Alibaba's DAMO Academy (Hangzhou) now.
+I am currently a Ph.D. student in the School of Software, Shandong University, enrolled through the master-to-Ph.D. program in 2023. I am jointly supervised by Shandong University and Zhongguancun Academy. My research interests include spatiotemporal data mining and LLM Agent-based simulation systems for financial and economic modeling. I am fortunate to be advised by [Prof. Yong Li (Tsinghua EE)](http://web.ee.tsinghua.edu.cn/liyong/zh_CN/index.htm), [Prof. Yongshun Gong (SDU Software)](https://faculty.sdu.edu.cn/gongyongshun), and [Prof. Yilong Yin (SDU Software)](https://faculty.sdu.edu.cn/ylyin).
 
-I am a PhD candidate jointly supervised by Shandong University's School of Software and Zhongguancun Academy, specializing in spatiotemporal data mining and LLM Agent-based simulation systems for financial/economic modeling. I am fortunate to be advised by Prof. Yong Li ([Tsinghua EE](http://web.ee.tsinghua.edu.cn/liyong/zh_CN/index.htm)), Prof. Yongshun Gong ([SDU Software](https://faculty.sdu.edu.cn/gongyongshun)), and Prof. Yilong Yin ([SDU Software](https://faculty.sdu.edu.cn/ylyin))
+I am currently a research intern at Alibaba DAMO Academy (Hangzhou), working on temporal foundation models.
+
 
 <p style="color: red;"> I’m open for academic collaborations. If you are interested, please feel free to email me! </p>
 
